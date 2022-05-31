@@ -1,5 +1,5 @@
 {
-    "name": "pblaravel/nova-number-format",
+    "name": "pblaravel/nova-number-convert",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
